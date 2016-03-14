@@ -1,0 +1,9 @@
+AutoRefactor             | https://github.com/JnRouvignac/AutoRefactor.git
+
+opendj                   | ssh://git@stash.forgerock.org:7999/~jnrouvignac/opendj.git
+opendj-sdk               | ssh://git@stash.forgerock.org:7999/~jnrouvignac/opendj-sdk.git
+opendj-packages          | ssh://git@stash.forgerock.org:7999/~jnrouvignac/opendj-packages.git
+forgerock-rest           | ssh://git@stash.forgerock.org:7999/~jnrouvignac/forgerock-rest.git
+forgerock-http-framework | ssh://git@stash.forgerock.org:7999/~jnrouvignac/forgerock-http-framework.git
+forgerock-util           | ssh://git@stash.forgerock.org:7999/~jnrouvignac/forgerock-util.git
+
