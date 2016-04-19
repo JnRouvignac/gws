@@ -1,9 +1,11 @@
 AutoRefactor             | https://github.com/JnRouvignac/AutoRefactor.git
+opendj_scripts           | https://github.com/JnRouvignac/opendj_scripts.git
+dot_eclipse              | https://github.com/JnRouvignac/dot_eclipse.git
+ldif                     | https://github.com/JnRouvignac/ldif.git
 
 opendj                   | ssh://git@stash.forgerock.org:7999/~jnrouvignac/opendj.git
-opendj-sdk               | ssh://git@stash.forgerock.org:7999/~jnrouvignac/opendj-sdk.git
-opendj-packages          | ssh://git@stash.forgerock.org:7999/~jnrouvignac/opendj-packages.git
 forgerock-rest           | ssh://git@stash.forgerock.org:7999/~jnrouvignac/forgerock-rest.git
 forgerock-http-framework | ssh://git@stash.forgerock.org:7999/~jnrouvignac/forgerock-http-framework.git
 forgerock-util           | ssh://git@stash.forgerock.org:7999/~jnrouvignac/forgerock-util.git
 
+pyforge                  | ssh://git@stash.forgerock.org:7999/~jnrouvignac/pyforge.git
