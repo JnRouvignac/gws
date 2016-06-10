@@ -4,8 +4,11 @@ dot_eclipse              | https://github.com/JnRouvignac/dot_eclipse.git
 ldif                     | https://github.com/JnRouvignac/ldif.git
 
 opendj                   | ssh://git@stash.forgerock.org:7999/~jnrouvignac/opendj.git
-forgerock-rest           | ssh://git@stash.forgerock.org:7999/~jnrouvignac/forgerock-rest.git
-forgerock-http-framework | ssh://git@stash.forgerock.org:7999/~jnrouvignac/forgerock-http-framework.git
-forgerock-util           | ssh://git@stash.forgerock.org:7999/~jnrouvignac/forgerock-util.git
+forgerock-commons        | ssh://git@stash.forgerock.org:7999/~jnrouvignac/forgerock-commons.git
 
 pyforge                  | ssh://git@stash.forgerock.org:7999/~jnrouvignac/pyforge.git
+
+openig                   | ssh://git@stash.forgerock.org:7999/openig/openig.git
+
+jdt-core                 | git://git.eclipse.org/gitroot/jdt/eclipse.jdt.core.git
+jdt-ui                   | git://git.eclipse.org/gitroot/jdt/eclipse.jdt.ui.git
