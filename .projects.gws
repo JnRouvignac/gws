@@ -4,10 +4,14 @@ dot_eclipse              | https://github.com/JnRouvignac/dot_eclipse.git
 ldif                     | https://github.com/JnRouvignac/ldif.git
 
 opendj                   | ssh://git@stash.forgerock.org:7999/~jnrouvignac/opendj.git
+opendj-docs              | ssh://git@stash.forgerock.org:7999/~jnrouvignac/opendj-docs.git
 forgerock-commons        | ssh://git@stash.forgerock.org:7999/~jnrouvignac/forgerock-commons.git
+i18n-framework           | ssh://git@stash.forgerock.org:7999/~jnrouvignac/i18n-framework.git
 
 pyforge                  | ssh://git@stash.forgerock.org:7999/~jnrouvignac/pyforge.git
 
+openam                   | ssh://git@stash.forgerock.org:7999/~jnrouvignac/openam.git
+openidm                  | ssh://git@stash.forgerock.org:7999/~jnrouvignac/openidm.git
 openig                   | ssh://git@stash.forgerock.org:7999/openig/openig.git
 
 jdt-core                 | git://git.eclipse.org/gitroot/jdt/eclipse.jdt.core.git
