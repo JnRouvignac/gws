@@ -13,6 +13,9 @@ pyforge                  | ssh://git@stash.forgerock.org:7999/~jnrouvignac/pyfor
 openam                   | ssh://git@stash.forgerock.org:7999/~jnrouvignac/openam.git
 openidm                  | ssh://git@stash.forgerock.org:7999/~jnrouvignac/openidm.git
 openig                   | ssh://git@stash.forgerock.org:7999/openig/openig.git
+java-framework           | ssh://git@stash.forgerock.org:7999/openicf/java-framework.git
+office365-connector      | ssh://git@stash.forgerock.org:7999/openicf/office365-connector.git
+scriptedcrest-connector  | ssh://git@stash.forgerock.org:7999/openicf/scriptedcrest-connector.git
 
 jdt-core                 | git://git.eclipse.org/gitroot/jdt/eclipse.jdt.core.git
 jdt-ui                   | git://git.eclipse.org/gitroot/jdt/eclipse.jdt.ui.git
