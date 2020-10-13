@@ -7,6 +7,7 @@ opendj                   | ssh://git@stash.forgerock.org:7999/~jnrouvignac/opend
 opendj-docs              | ssh://git@stash.forgerock.org:7999/~jnrouvignac/opendj-docs.git
 forgerock-commons        | ssh://git@stash.forgerock.org:7999/~jnrouvignac/forgerock-commons.git
 i18n-framework           | ssh://git@stash.forgerock.org:7999/~jnrouvignac/i18n-framework.git
+forgeops                 | ssh://git@stash.forgerock.org:7999/cloud/forgeops.git
 
 pyforge                  | ssh://git@stash.forgerock.org:7999/~jnrouvignac/pyforge.git
 
@@ -19,3 +20,5 @@ scriptedcrest-connector  | ssh://git@stash.forgerock.org:7999/openicf/scriptedcr
 
 jdt-core                 | git://git.eclipse.org/gitroot/jdt/eclipse.jdt.core.git
 jdt-ui                   | git://git.eclipse.org/gitroot/jdt/eclipse.jdt.ui.git
+async-profiler           | https://github.com/jvm-profiling-tools/async-profiler.git
+
